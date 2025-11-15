@@ -1,5 +1,7 @@
 social-web-mvp-bolt
-demo: https://social-web-mvp-bolt.vercel.app/
+demo: [https://social-web-mvp-bolt.vercel.app/](https://basic-social-web-bui-upln.bolt.host/)
+
+
 .env
 ```
 VITE_SUPABASE_URL=
